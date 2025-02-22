@@ -1,3 +1,5 @@
+### ML project
+
 Part1: supervised learning - classifying images  
 Dataset: [Link](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)
 
