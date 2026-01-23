@@ -4,8 +4,6 @@ ML is a field of AI that allows computers to learn from data and make prediction
 
 In this project, the 3 main ML techniques are applied
 
-#### Steps:
-
 #### Part1: supervised learning - classifying images
 - Dataset: [Link](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)
 
