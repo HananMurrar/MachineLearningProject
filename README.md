@@ -1,6 +1,6 @@
 ### ML project
 
-MLis a field of AI that allows computers to learn from data and make predictions or discover patterns without being explicitly programmed
+ML is a field of AI that allows computers to learn from data and make predictions or discover patterns without being explicitly programmed
 
 In this project, the 3 main ML techniques are applied
 
