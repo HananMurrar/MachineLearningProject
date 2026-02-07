@@ -1,8 +1,5 @@
 ### ML project
-
 ML is a field of AI that allows computers to learn from data and make predictions or discover patterns without being explicitly programmed
-
-In this project, the 3 main ML techniques are applied
 
 #### Part1: supervised learning - classifying images
 - Dataset: [Link](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)
